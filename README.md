@@ -4,19 +4,19 @@ Frontend - React.js, Material UI, React Hook Form \
 Backend - Commerce.js, Stripe.js
 ## [Live Site](https://meek-strudel-b60b63.netlify.app/)
 
-The category panel 
+## The category panel 
 
 - On Mobile: It should be visible on top 
 
 - On the Web: It should be visible on the left 
 
 
-Scrolling Syncing 
+## Scrolling Syncing 
 
 If the user scrolls the page, the category item should be selected based on the category list visible at the top of the page. 
 
 
-Adding/Removing an item to/from the cart 
+## Adding/Removing an item to/from the cart 
 
 - Data should get maintained using redux / context API
 
